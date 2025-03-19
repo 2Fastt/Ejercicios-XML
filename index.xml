@@ -5,10 +5,17 @@ Fecha: 19/03/2025
 Ejercicio: XML Básico 1
 -->
 <Ciudades>
-    <Ciudad>
+    <Ciudad Continente="Asia">
         <nombre>Nueva Delhi</nombre>
         <Pais>India</Pais>
-        <Continente>Asia</Continente>
+    </Ciudad>
+    <Ciudad Continente="Europa">
+        <nombre>Lisboa</nombre>
+        <Pais>Portugal</Pais>
+    </Ciudad>
+    <Ciudad Continente="Africa">
+        <nombre>El Cairo</nombre>
+        <Pais>Egipto</Pais>
     </Ciudad>
 
 </Ciudades>
