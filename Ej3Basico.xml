@@ -7,4 +7,5 @@ Ejercicio: XML Básico 1
 <listalibros>
     <Libro titulo="Hacking: The Art of Exploitation" autor="Jon Erickson" año="2008">
     <Libro titulo="The Hacker Playbook 3" autor="Peter Kin" año="2018">
+    <Libro titulo="Advanced Penetration Testing" autor="Will allsopp" año="2017">
 </listalibros>
