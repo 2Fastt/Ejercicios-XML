@@ -7,3 +7,6 @@ Ejercicio: XML Básico 1
 
 <Empleados>
     <Empleado nombre="ana" apellido="garcia" edad="30" departamento="ventas" cargo="ejecutivo de ventas"/>
+    <Empleado nombre="luis" apellido="rodríguez" edad="45" departamento="finanzas" cargo="analista financiero"/>
+    <Empleado nombre="maría" apellido="lopez" edad="28" departamento="marketing" cargo="especialista en redes sociales"/>
+</Empleados>
