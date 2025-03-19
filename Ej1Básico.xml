@@ -4,8 +4,8 @@ Curso: ASIR 1
 Fecha: 19/03/2025
 Ejercicio: XML Básico 1
 -->
-<Ciudades>
-    <Ciudad Continente="Asia">
+<Ciudades> <!--contiene todas las ciudades-->
+    <Ciudad Continente="Asia"> <!-- cada ciudad tiene su atributo que es el continente al que pertenece-->
         <nombre>Nueva Delhi</nombre>
         <Pais>India</Pais>
     </Ciudad>

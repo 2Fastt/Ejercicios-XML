@@ -5,8 +5,8 @@ Fecha: 19/03/2025
 Ejercicio: XML Básico 1
 -->
 
-<Empleados>
-    <Empleado nombre="ana" apellido="garcia" edad="30" departamento="ventas" cargo="ejecutivo de ventas"/>
+<Empleados> <!--este es el elemento raiz por asi decirlo que contiene a todos los empleados de la empresa, con su respectiva informacion-->
+    <Empleado nombre="ana" apellido="garcia" edad="30" departamento="ventas" cargo="ejecutivo de ventas"/> <!--cada empleado tiene varios atributos, su nombre, edad, etc...-->
     <Empleado nombre="luis" apellido="rodríguez" edad="45" departamento="finanzas" cargo="analista financiero"/>
     <Empleado nombre="maría" apellido="lopez" edad="28" departamento="marketing" cargo="especialista en redes sociales"/>
 </Empleados>
