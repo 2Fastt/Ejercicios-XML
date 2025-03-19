@@ -1,0 +1,18 @@
+<!--
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 19/03/2025
+Ejercicio: XML Básico 1
+-->
+<hechohistorico>
+    <hecho descripcion="IBM da a conocer el PC">
+        <fecha>
+            <Dia>12</Dia>
+            <mes>8</Mes>
+            <Año>1981</Año>
+        </fecha>
+    </hecho>
+
+
+
+</hechohistorico>
