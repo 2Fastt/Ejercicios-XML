@@ -1,0 +1,9 @@
+<!--
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 19/03/2025
+Ejercicio: XML Básico 1
+-->
+
+<Empleados>
+    <Empleado nombre="ana" apellido="garcia" edad="30" departamento="ventas" cargo="ejecutivo de ventas"/>
