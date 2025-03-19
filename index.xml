@@ -1,0 +1,14 @@
+<!--
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 19/03/2025
+Ejercicio: XML Básico 1
+-->
+<Ciudades>
+    <Ciudad>
+        <nombre>Nueva Delhi</nombre>
+        <Pais>India</Pais>
+        <Continente>Asia</Continente>
+    </Ciudad>
+
+</Ciudades>
