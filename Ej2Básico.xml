@@ -12,6 +12,20 @@ Ejercicio: XML Básico 1
             <Año>1981</Año>
         </fecha>
     </hecho>
+    <hecho descripcion="Se funda google">
+        <fecha>
+            <Dia>4</Dia>
+            <mes>9</Mes>
+            <Año>1998</Año>
+        </fecha>
+    </hecho>
+    <hecho descripcion="Se funda facebook">
+        <fecha>
+            <Dia>4</Dia>
+            <mes>2</Mes>
+            <Año>2004</Año>
+        </fecha>
+    </hecho>
 
 
 
